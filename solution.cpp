@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -108,6 +108,5 @@ int main()
     //antonio present the change money
     cout<<"Here is your change money: R"<<budget<<endl;
 
-
-  return 0;
+    return 0;
 }
